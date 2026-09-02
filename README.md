@@ -23,13 +23,18 @@ an interactive way to explore Netflix's catalog and understand content patterns 
 
 ## 🛠️ Tools & Technologies
 - **Power BI** — Dashboard design and data visualization
-- **Excel** — Data cleaning and preprocessing
+- **power query** — Data cleaning and preprocessing
+
+ ## 🧹 Data Cleaning
+The raw dataset was cleaned and transformed using **Power Query** in Power BI before 
+building the dashboard. This included handling missing values, removing duplicates, 
+and formatting columns for accurate analysis.
 
 ## 📁 Files in this Repository
 | File | Description |
 |------|--------------|
 | `Netflix Dashboard.pbix` | Power BI dashboard file |
-| `Netflix Dataset.csv` | Raw dataset used for analysis |
+| `Netflix Dataset.csv` | Raw dataset |
 | `README.md` | Project documentation |
 
 ## 📊 Dashboard Preview
